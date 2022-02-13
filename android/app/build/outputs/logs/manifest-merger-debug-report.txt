@@ -1,0 +1,492 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+MERGED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+MERGED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:path_provider] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_secure_storage] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_core_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core_web\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_native_timezone] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_native_timezone\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:fluttertoast] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:firebase_auth_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth_web\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:android_alarm_manager] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\android_alarm_manager\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7836d9b24a3daab11f2446d5dd0d6adf\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4ab9ecacd524f888cca9ed2d34e8c738\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\810f8807840a869c796f2747a4da36d3\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\06d483b2a878448acf5c1f5e3dddf9f4\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\fb827e5d2153ffda76c50c7ab391b458\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\722d93d512deaa0ede7149d614707d71\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\49847967638e631721e7189a540835a4\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\a5d5f1905d655c7fd98e0acd997606dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\08f3432b027196dbce42878b1f3ee866\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5193b1e62ba87259e002117b4a2b3b3a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7a1fbe3e4102727da2912695b586e422\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\dad64848aec59d6a84ef4f6febd487c5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\028b56cda5912cf8664bcc77de2574bd\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5eda1b8a34067d209d2e0727aea853a2\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bd97537e7a53daa94f4f3d4d3ca8fe49\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\c1db51ecfc00581583d0b508592b422e\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\582e3c2528f10db3a3b83441eae6f746\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ca4525826abc5f52d35d8d093d4f6508\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7c517889d1d1d44716dcd15ece3b8775\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\95394e57a0f5a6f6d76392b0b768f3fe\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9a190494fb445dc3972c5cb44d2cbc66\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ee93cc20dc07ada9a463c8dca30af91e\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9b23745436eeb15a2e0349ddddd3ef1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\1a0d358d6020228f6bb4137b0b67ef80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\241e57ed6224280c09241e48a57156eb\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\836de0ddb3eaa0eb563c076adc88d346\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b0e3bb80d2e79d8d43bc4f74f24e94b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\197f68ef2de8303f244b4fb6bf084633\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bb9c33f4ba829717ebbb332ef2d700b4\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\12fbe57c2f65da8d0b10757480b882dc\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e82c996ffc3f13907cdf0ebdcbe05fdc\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4c7ab70bc073dfbc13efe05e50e14a74\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e4d6d08800811309833415f3dff75bb4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\635c8132d1e8ca8f3aceeffa39ac6626\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:2:6-52
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:2:6-52
+	android:versionCode
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:1-74:12
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:5:4-79
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:5:21-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:6:4-64
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:6:21-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:7:4-79
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:7:21-77
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:8:4-78
+MERGED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:8:21-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:9:4-66
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:9:21-64
+application
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:11:4-73:19
+MERGED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7836d9b24a3daab11f2446d5dd0d6adf\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7836d9b24a3daab11f2446d5dd0d6adf\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\722d93d512deaa0ede7149d614707d71\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\722d93d512deaa0ede7149d614707d71\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\241e57ed6224280c09241e48a57156eb\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\241e57ed6224280c09241e48a57156eb\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\635c8132d1e8ca8f3aceeffa39ac6626\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\635c8132d1e8ca8f3aceeffa39ac6626\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:icon
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:14:9-39
+	tools:replace
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:12:9-38
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:15:9-20:20
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-20:20
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:15:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:16:9-19:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:17:9-70
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:17:17-68
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:18:9-75
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:18:17-73
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:22:9-106
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-106
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:22:19-103
+activity#com.example.revisitas.MainActivity
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:24:9-52:20
+	android:launchMode
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:26:13-43
+	android:hardwareAccelerated
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:29:13-47
+	android:windowSoftInputMode
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:30:13-55
+	android:configChanges
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:28:13-163
+	android:theme
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:25:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:35:13-38:17
+	android:resource
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:37:15-52
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:36:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:44:13-47:17
+	android:resource
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:46:15-61
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:45:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:50:27-74
+meta-data#flutterEmbedding
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:55:9-57:33
+	android:value
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:57:13-30
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:56:13-44
+service#io.flutter.plugins.androidalarmmanager.AlarmService
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:59:13-62:31
+	android:exported
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:62:5-29
+	android:permission
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:61:5-61
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:60:5-71
+receiver#io.flutter.plugins.androidalarmmanager.AlarmBroadcastReceiver
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:63:1-65:31
+	android:exported
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:65:5-29
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:64:5-81
+receiver#io.flutter.plugins.androidalarmmanager.RebootBroadcastReceiver
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:66:1-72:12
+	android:enabled
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:68:5-28
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:67:5-82
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml:69:5-71:21
+uses-sdk
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\shared_preferences\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\path_provider\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_secure_storage] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_secure_storage] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_secure_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_timezone] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_native_timezone\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_timezone] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_native_timezone\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth_web\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\android_alarm_manager\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_alarm_manager] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\android_alarm_manager\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7836d9b24a3daab11f2446d5dd0d6adf\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7836d9b24a3daab11f2446d5dd0d6adf\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4ab9ecacd524f888cca9ed2d34e8c738\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4ab9ecacd524f888cca9ed2d34e8c738\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\810f8807840a869c796f2747a4da36d3\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\810f8807840a869c796f2747a4da36d3\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\06d483b2a878448acf5c1f5e3dddf9f4\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\06d483b2a878448acf5c1f5e3dddf9f4\jetified-play-services-auth-api-phone-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\fb827e5d2153ffda76c50c7ab391b458\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\fb827e5d2153ffda76c50c7ab391b458\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\722d93d512deaa0ede7149d614707d71\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\722d93d512deaa0ede7149d614707d71\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\49847967638e631721e7189a540835a4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\49847967638e631721e7189a540835a4\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\a5d5f1905d655c7fd98e0acd997606dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\a5d5f1905d655c7fd98e0acd997606dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\08f3432b027196dbce42878b1f3ee866\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\08f3432b027196dbce42878b1f3ee866\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5193b1e62ba87259e002117b4a2b3b3a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5193b1e62ba87259e002117b4a2b3b3a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7a1fbe3e4102727da2912695b586e422\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7a1fbe3e4102727da2912695b586e422\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\dad64848aec59d6a84ef4f6febd487c5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\dad64848aec59d6a84ef4f6febd487c5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\028b56cda5912cf8664bcc77de2574bd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\028b56cda5912cf8664bcc77de2574bd\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5eda1b8a34067d209d2e0727aea853a2\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\5eda1b8a34067d209d2e0727aea853a2\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bd97537e7a53daa94f4f3d4d3ca8fe49\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bd97537e7a53daa94f4f3d4d3ca8fe49\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\c1db51ecfc00581583d0b508592b422e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\c1db51ecfc00581583d0b508592b422e\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\582e3c2528f10db3a3b83441eae6f746\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\582e3c2528f10db3a3b83441eae6f746\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ca4525826abc5f52d35d8d093d4f6508\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ca4525826abc5f52d35d8d093d4f6508\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7c517889d1d1d44716dcd15ece3b8775\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\7c517889d1d1d44716dcd15ece3b8775\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\95394e57a0f5a6f6d76392b0b768f3fe\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\95394e57a0f5a6f6d76392b0b768f3fe\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\33ce9bf1ec366cf772e118639332588b\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9a190494fb445dc3972c5cb44d2cbc66\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9a190494fb445dc3972c5cb44d2cbc66\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ee93cc20dc07ada9a463c8dca30af91e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\ee93cc20dc07ada9a463c8dca30af91e\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9b23745436eeb15a2e0349ddddd3ef1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9b23745436eeb15a2e0349ddddd3ef1f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\1a0d358d6020228f6bb4137b0b67ef80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\1a0d358d6020228f6bb4137b0b67ef80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\241e57ed6224280c09241e48a57156eb\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\241e57ed6224280c09241e48a57156eb\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\836de0ddb3eaa0eb563c076adc88d346\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\836de0ddb3eaa0eb563c076adc88d346\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b0e3bb80d2e79d8d43bc4f74f24e94b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b0e3bb80d2e79d8d43bc4f74f24e94b2\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\197f68ef2de8303f244b4fb6bf084633\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\197f68ef2de8303f244b4fb6bf084633\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bb9c33f4ba829717ebbb332ef2d700b4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\bb9c33f4ba829717ebbb332ef2d700b4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\12fbe57c2f65da8d0b10757480b882dc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\12fbe57c2f65da8d0b10757480b882dc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e82c996ffc3f13907cdf0ebdcbe05fdc\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e82c996ffc3f13907cdf0ebdcbe05fdc\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4c7ab70bc073dfbc13efe05e50e14a74\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\4c7ab70bc073dfbc13efe05e50e14a74\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e4d6d08800811309833415f3dff75bb4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\e4d6d08800811309833415f3dff75bb4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\635c8132d1e8ca8f3aceeffa39ac6626\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\635c8132d1e8ca8f3aceeffa39ac6626\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:google_sign_in] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\google_sign_in\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:10:17-123
+queries
+ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\file_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:19-41
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:25-79
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] E:\Users\luizf\Desktop\Luiz Felipe\Projetos Flutter\revisitas\build\url_launcher\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-92
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\b6c51e5e9f1b329df091c1312802de67\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\9c07f841d8aeb751e65d33d3368ca6e6\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\30f686b31deccba4a88e662a7a290a50\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\13bdd9fd30d59c83c3b83ecee89093fe\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\luizf\.gradle\caches\transforms-2\files-2.1\efafba8afad7b78e0a03f589054c1db0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1750689374-26qc1skmr6ss21h5onoc0j25hmecde2t.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1750689374</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNPuJaZLFiUo6yKTZahegtQ_bSv_52PvU</string>
+    <string name="google_app_id" translatable="false">1:1750689374:android:02ce342748629e97a076cf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNPuJaZLFiUo6yKTZahegtQ_bSv_52PvU</string>
+    <string name="google_storage_bucket" translatable="false">revisitas-4650f.appspot.com</string>
+    <string name="project_id" translatable="false">revisitas-4650f</string>
+</resources>
